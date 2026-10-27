@@ -18,15 +18,13 @@ Clocky is a Flutter-based time management app designed to make everyday timekeep
 - **Platform:** Android
 - **IDE:** Visual Studio Code
 
+
 ## 📸 Screenshots
-
-Explore Clocky's interface, including the World Clock, Alarm, and Stopwatch screens.
-
-<!-- Add your app screenshots here -->
 
 | World Clock | Alarm | Stopwatch |
 |:---:|:---:|:---:|
-| Add screenshot | Add screenshot | Add screenshot |
+| <img src="screenshots/world-clock.png" width="220"> | <img src="screenshots/alarm.png" width="220"> | <img src="screenshots/stopwatch.png" width="220"> |
+
 
 ## 🚀 Getting Started
 
