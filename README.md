@@ -16,7 +16,7 @@ Clocky is a Flutter-based time management app designed to make everyday timekeep
 - **Framework:** Flutter
 - **Language:** Dart
 - **Platform:** Android
-- **IDE:** Visual Studio Code
+- **IDE:** Visual Studio Code and Android Studio
 
 
 ## 📸 Screenshots
